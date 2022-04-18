@@ -1,0 +1,67 @@
+https://stword.com/posts/it-programming-tu-vung-ve-lap-trinh?word=1
+
+1. action language:
+2. addition: 
+3. algorithm:
+4. alphanumeric: 
+5. API - (application programming interface): 
+6. architecture: 
+7. arithmetic operation: 
+8. array: 
+9. assembler: 
+10. assembly language
+
+1. assign
+2. batch
+3. batch processing
+4. binary
+5. Boolean
+6. bracket
+7. bug
+8. character code
+9. class
+10. code
+
+1. command
+2. command interpreter
+3. command language
+4. compile
+5. compiler
+6. concurrent computing
+7. configuration
+8. constant
+9. constraint programming
+10. crack
+
+1. CRC
+2. data-driven programming
+3. dataflow programming
+4. debug
+5. debugger
+6. decimal
+7. declarative programming
+8. declare
+9. decode
+10. decrypt
+
+1. defensive programming
+2. disassemble
+3. disassembler
+4. division
+5. dynamic
+6. dynamic programming
+7. element
+8. encode
+9. encrypt
+10. encryption
+
+1. entropy
+2. environment
+3. escape character
+4. event handler
+5. event-driven programming
+6. evolutionary algorithm
+7. extreme programming
+8. fault tolerance
+9. functional programming
+10. generic programming
